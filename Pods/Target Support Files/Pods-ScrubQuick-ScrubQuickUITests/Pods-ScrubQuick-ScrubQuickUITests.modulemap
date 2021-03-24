@@ -1,0 +1,6 @@
+framework module Pods_ScrubQuick_ScrubQuickUITests {
+  umbrella header "Pods-ScrubQuick-ScrubQuickUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
