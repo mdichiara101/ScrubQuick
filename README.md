@@ -14,6 +14,7 @@ If you start another survey, each survey will be stacked on one another in the f
 This project is basically me learning swift and storyboards. I didn't even use a navigation bar in this project for some reason I decided to build my own through buttons. 
 
 I'll probably rebuild this project in the future once I'm done with a couple more projects. It will be interesting to see a before and after.
+
 App Icon
 -
 ![ScrubQuick-1](https://user-images.githubusercontent.com/57690548/112668688-cc2ae300-8e2c-11eb-99af-51e16cd127e0.jpg)
